@@ -8,6 +8,12 @@ I began by setting up the project’s GitHub repository. My first attempt was to
 
 
 
+Michelle's Contribution:
+
+Before starting my part of this lab, I downloaded the ipynb file and ran through each cell. My contribution to this lab was answering the observation questions about the visualizations of the lab. I looked closely at the dots on the graph and the bar chart to write out what patterns and relationships I noticed between the three species focusing on how they compared in terms of sepal length and width.
+
+
 
 Xinyu's Contributions:
+
 I completed the remaining sections of the Jupyter Notebook that I had left incomplete. I completed ‘Questions for Further Investigation’ to add two more questions on the Iris dataset and completed the ‘Reflection’ section. I then ran all the cells to check the output, and the visualizations were correct. I then committed and uploaded the Jupyter Notebook to the GitHub branch for the team to review and merge.
