@@ -64,13 +64,3 @@ Then open `Module_02_Lab_Exercise.ipynb`.
 **Option C — Google Colab**
 
 Upload the notebook. Libraries are already installed.
-
-## Dataset (Iris)
-
-- 150 flowers
-- 4 measurements: sepal length, sepal width, petal length, petal width
-- 3 species: setosa, versicolor, virginica
-
-## Next
-
-Module 3: types of machine learning, a first classifier, and the fuller ML workflow.
